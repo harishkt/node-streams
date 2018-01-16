@@ -1,0 +1,22 @@
+{
+  "name": "node-streams",
+  "version": "1.0.0",
+  "description": "Everything about node-streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harishkt/node-streams.git"
+  },
+  "keywords": [
+    "Streams"
+  ],
+  "author": "Harish Kumar T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harishkt/node-streams/issues"
+  },
+  "homepage": "https://github.com/harishkt/node-streams#readme"
+}
