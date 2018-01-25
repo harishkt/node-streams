@@ -1,6 +1,6 @@
 {
   "name": "node-streams",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Everything about node-streams",
   "main": "index.js",
   "scripts": {
